@@ -3,7 +3,6 @@
 <!--
 **Suyoung225/Suyoung225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suyoung225&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
@@ -15,3 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
+--!>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suyoung225&show_icons=true&theme=radical)
