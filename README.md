@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 
 
 
-## My Bolg
+## My Blog
 <a href="[url]"><img src="https://img.shields.io/badge/Daily Dev-000000?style=flat-square&logo=Tistory&logoColor=white&link=[https://dev-daybyday.tistory.com]"/></a>
 
