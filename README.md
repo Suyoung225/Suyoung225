@@ -36,10 +36,11 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=8904su)](https://solved.ac/8904su/)
 
  ### 🔗Link
- <a href="[url]"><img src="https://img.shields.io/badge/My Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=[[https://dev-daybyday.tistory.com](https://dev-daybyday.tistory.com/)]"/></a>   <a href="mailto:8904su@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:8904su@gmail.com"/></a></p>
+<a href="https://dev-daybyday.tistory.com"><img src="https://img.shields.io/badge/My Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>     <a href="mailto:8904su@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:8904su@gmail.com"/></a></p>
   
+  
+
 </div>
- 
  
 <!--
 
