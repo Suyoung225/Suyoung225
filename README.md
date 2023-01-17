@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img src ="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 
 
- ### 🎖Backjoon solved rank
+ ### 🎖Baekjoon Solved Rank
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=8904su)](https://solved.ac/8904su/)
 
