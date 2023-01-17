@@ -28,11 +28,13 @@ Here are some ideas to get you started:
 <img src ="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 
 
-
-
  ### 🎖Backjoon solved rank
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=8904su)](https://solved.ac/8904su/)
+
+ ### 🔥GitHub stats
+ 
+![Suyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suyoung225&show_icons=true&theme=radical)
 
  ### 🔗Link
 <a href="https://dev-daybyday.tistory.com"><img src="https://img.shields.io/badge/My Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>     <a href="mailto:8904su@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:8904su@gmail.com"/></a></p>
